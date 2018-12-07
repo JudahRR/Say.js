@@ -7,4 +7,4 @@ With Say.js you can say anything with a computer synthesiser. All you need to do
 
 Here is the code link:
 
-https://rawgit.com/JudahRR/Say.js/master/libs/say.js
+https://cdn.jsdelivr.net/gh/JudahRR/Say.js/libs/say.js
